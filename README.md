@@ -1,5 +1,5 @@
 # 🔐 Lakshmanan Ganesan | Junior Cybersecurity Specialist
-
+ 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00F72F&background=000000&center=true&vCenter=true&width=600&lines=Security+Enthusiast+%26+Researcher;Certified+Ethical+Hacker;Dark+Web+Monitoring+Expert;Building+Secure+Digital+Ecosystems" alt="Typing SVG" />
 </div>
