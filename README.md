@@ -1,11 +1,11 @@
-# 🔐 Lakshmanan Ganesan | Junior Cybersecurity Specialist
+# 🔐 Lakshmanan Ganesan | SOC Analyst - Tier 1
  
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00F72F&background=000000&center=true&vCenter=true&width=600&lines=Security+Enthusiast+%26+Researcher;Certified+Ethical+Hacker;Dark+Web+Monitoring+Expert;Building+Secure+Digital+Ecosystems" alt="Typing SVG" />
 </div>
 
 ## 🛡️ Professional Overview
-Junior Cybersecurity Specialist with expertise in network security, ethical hacking, and threat detection. Passionate about safeguarding digital assets through proactive security strategies and continuous monitoring.
+SOC Analyst - Tier 1 with expertise in network security, ethical hacking, and threat detection. Passionate about safeguarding digital assets through proactive security strategies and continuous monitoring.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://lakshmanan.tech)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmananganesan18@gmail.com)
@@ -31,8 +31,8 @@ Junior Cybersecurity Specialist with expertise in network security, ethical hack
 
 ## 💼 Professional Experience
 
-### Junior Cybersecurity Specialist (Internship)
-**Infinitesol, India** | Nov 2024 - Present  
+### Cybersecurity Domain (Internship)
+**Infinitesol, India** | **Duriation - 6 Month**  
 - Implemented Kaseya One products including Remote Monitoring Management and EDR tools
 - Integrated Leak Lookup Dark Web Compromise Checking API for email/domain verification
 - Conducted vulnerability assessments and participated in incident response
@@ -49,10 +49,10 @@ Automated security assessment tool for web applications
 Android application with real-time booking system
 
 ## 📜 Certifications
-- Certified Ethical Hacker (Nativeva)
-- TryHackMe Pre-Security Path
-- Hack The Box Cyber Apprentice
-- RITSM IT Service Management
+- Certified Ethical Hacker (Nativeva - CEH)
+- TryHackMe Pre-Security Path Certificate
+- Certified in Remote Monitoring & Management
+-  Certified in Endpoint Detaction & Response 
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshmanan-ganesan-72240a27a)
